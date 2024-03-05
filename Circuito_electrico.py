@@ -194,6 +194,7 @@ def construir_circuito():
                 print(f"\n\n ------Realizado Por:----------\n")
                 print("Sebastian Orrego Urrea..")
                 print("Alex Mauricio Diaz")
+                print("Julian David Valencia Londoño")
                 break  # Sale del bucle
             else:
                 print("\n-------Debes seleccionar al menos una resistencia--------\n")
