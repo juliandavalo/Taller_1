@@ -192,7 +192,7 @@ def construir_circuito():
                 print(f"Corriente Resultante: {corriente_formateada}")
                 print(f"Resistencia Total: {formatear_valor_resistencia(resistencia_total)}")
                 print(f"\n\n ------Realizado Por:----------\n")
-                print("Sebastian Orrego Urrea")
+                print("Sebastian Orrego Urrea..")
                 break  # Sale del bucle
             else:
                 print("\n-------Debes seleccionar al menos una resistencia--------\n")
