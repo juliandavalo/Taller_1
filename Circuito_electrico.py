@@ -72,7 +72,7 @@ def interpretar_valor_resistencia(valor):
         return None
     
     #si el valor es un numero lo tome como un float
-    elif valor.isdigit():
+    elif valor.replace('.', '', 1).isdigit():
         return float(valor)
      
     # de lo contrario si viene un valor diferente me mande none 
